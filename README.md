@@ -23,7 +23,8 @@ Sou uma pessoa focada em evolução constante, buscando aprender programação e
 
 ## 🚀 Projetos
 
-🔹 Alerta de Vagas  
+🔹 Alerta de Vagas 
+
 🔹 Lista de Tarefas (Todo List)
 
 🔹 Conversor de moedas 

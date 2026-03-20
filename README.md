@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Brendow Januzzi
+# 👋 Olá, eu sou o Brendow Januzzi de Matos
 
 💻 Desenvolvedor em evolução  
 🌱 Interesse em tecnologia, agricultura e empreendedorismo  
@@ -24,7 +24,8 @@ Sou uma pessoa focada em evolução constante, buscando aprender programação e
 ## 🚀 Projetos
 
 🔹 Alerta de Vagas  
-🔹 Lista de Tarefas (Todo List)  
+🔹 Lista de Tarefas (Todo List)
+🔹 Conversor de moedas 
 
 ---
 

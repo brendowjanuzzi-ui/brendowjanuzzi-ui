@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Brendow Januzzi
 
-<!--
-**brendowjanuzzi-ui/brendowjanuzzi-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em evolução  
+🌱 Interesse em tecnologia, agricultura e empreendedorismo  
+🚀 Focado em crescer financeiramente e construir projetos próprios  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+Sou uma pessoa focada em evolução constante, buscando aprender programação e criar soluções reais.
+
+---
+
+## ⚙️ Tecnologias
+
+- HTML  
+- CSS  
+- JavaScript  
+- Git e GitHub  
+
+---
+
+## 🚀 Projetos
+
+🔹 Alerta de Vagas  
+🔹 Lista de Tarefas (Todo List)  
+
+---
+
+## 🎯 Objetivos
+
+- Me tornar desenvolvedor profissional  
+- Criar renda com tecnologia  
+- Unir tecnologia com agricultura no futuro  
+
+---
+
+## 📈 Em evolução...
+
+Sempre aprendendo e melhorando 🚀

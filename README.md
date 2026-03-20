@@ -27,7 +27,7 @@ Sou uma pessoa focada em evolução constante, buscando aprender programação e
 
 🔹 Lista de Tarefas (Todo List)
 
-🔹 Conversor de moedas 
+🔹 Conversor-moedas 
 
 ---
 
